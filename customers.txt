@@ -1,0 +1,31 @@
+John Doe 07000000001 49 10 Monitor stand broken
+John Doe 07000000002 24 20 Headphones right ear cup broken
+Carol Dunlop 07000000003 52 25 Motherboard replacement
+Ted Knoxville 07000000004 32 10 Keyboard needs cleaning
+John Barnes 07000000005 21 5 Mouse double click problem needs fixed
+Derek Mosby 07000000006 38 5 Graphics Card fan needs dust removed
+Flanders Tedson 07000000007 35 10 Speakers won't emit sound
+Ronald Hutchison 07000000008 76 20 Power supply needs replacement
+Ron Greg 07000000009 23 20 SSD needs reformatting
+Smithy Jones 07000000010 29 15 HDD needs repair
+Tony Tederson 07000000011 76 20 CPU needs replacement
+Bill Nikes 07000000012 50 20 operating system corrupt, install new operating system
+Gertrude Maddison 07000000013 92 5 Locked out of computer, reset password
+Ryan Smith 07000000014 32 15 Spilled coffee on keyboard, clean and fix if possible
+Janice Adams 07000000015 41 25 Processor fan broken, replace
+Derek Jones 07000000016 51 50 Replace graphics card
+Henry Dali 07000000017 30 150 build entire computer using customer owned parts and ensure it is functional
+Alice Ritchardson 07000000018 19 75 clean out dust from PC, install new version of windows, ensure full functionality
+Lenny Harris 07000000019 45 10 left ear cup on headset is non-functional, attempt to fix
+Verila Hansula 07000000020 23 20 right mouse button double clicks, solder new contacts onto right mouse button
+joe Culloch 07000000021 23 20 Reinstall operating system
+Carol Dunlop 07000000022 63 15 remove virus from computer, install anti-virus software
+Harry Mason 07000000023 22 5 Install operating system on laptop
+Barry Lafferton 07000000024 56 200 Install shop owned graphics card into customer computer
+Larry Collins 07000000025 33 12 Thumb stick on gamepad is broken, dismantle and repair or install new thumb stick
+Ronald Harrison 07000000026 26 15 numpad on keyboard is non-functional, repair
+Janice Adams 07000000027 54 5 clean out dust from laptop
+Oscar Kennedy 07000000028 30 20 clean dust out of computer
+Fred Hanson 07000000029 27 10 spilled coffee on laptop, clean out and get functional again
+Donna Springfield 07000000030 61 7 replace keycaps on keyboard numpad area
+Kenneth Larryville 07000000031 30 18 reformat SSD
